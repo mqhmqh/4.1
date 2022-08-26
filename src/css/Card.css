@@ -1,0 +1,24 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  margin-left: 20px;
+  width: 280px;
+  flex-direction: row;
+  padding: 60px;
+}
+
+.star {
+  margin-top: 20px;
+}
+
+.star_points {
+  font-size: 20px;
+}
+
+.author_name {
+  margin-left: 50px;
+  margin-top: 20px;
+}

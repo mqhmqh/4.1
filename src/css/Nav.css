@@ -1,0 +1,31 @@
+.nav_form_1 {
+  display: flex;
+  padding-left: 100px;
+  background: red;
+  width: 1000px;
+}
+
+.nav_form_2 {
+  background: yellow;
+  width: 1100px;
+}
+
+.nav_form_3 {
+  display: flex;
+  padding-left: 100px;
+  background: blue;
+  width: 1000px;
+}
+
+.form_icon {
+  display: flex;
+}
+
+.nav_form_2_text {
+  display: flex;
+  justify-content: center;
+}
+
+.nav_form_item {
+  flex: 33.33%;
+}
